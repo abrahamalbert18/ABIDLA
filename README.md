@@ -1,4 +1,4 @@
-# Alcoholic Beverage Identification Deep Learning Algorithm Version (ABIDLA)
+# Alcoholic Beverage Identification Deep Learning Algorithm (ABIDLA)
 
 A research and development project to build algorithms which identifies alcoholic beverages in images. ABIDLA2 is an enhanced version of ABIDLA.
 ABIDLA can be applied to quantify images with alcoholic beverages in a dataset. 
