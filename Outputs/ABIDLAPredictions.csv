@@ -1,0 +1,6 @@
+ImageName,ModelPrediction1,Probability1(%),ModelPrediction2,Probability2(%)
+1074.jpg,Wine,99.0,Beer Cup, 1.0
+1738.jpg,Beer Bottle,100.0,Beer Cup, 0.0
+1839.jpg,Champagne,99.0,Wine, 1.0
+4565.jpg,Beer Cup,93.0,Beer Can, 2.0
+7500.jpg,Beer Cup,100.0,Beer Can, 0.0
